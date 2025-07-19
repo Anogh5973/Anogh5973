@@ -1,3 +1,5 @@
+<!-- Profile README - Arunoday Banerjee -->
+
 <h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
 <h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainability Enthusiast | 🇮🇳 India</h3>
 
@@ -50,10 +52,26 @@
 ### 🛠️ Core Tech Stack & AI Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tailwind,react,pycharm,vscode,git,github,figma,firebase,flask,gcp,tensorflow,pytorch,sklearn,keras,opencv,azure,aws" />
+  **Languages:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css" />
+  <br><br>
+  **Libraries / Frameworks:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=streamlit,flask,numpy" />
+  <br><br>
+  **Tools / Platforms:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,gcp" />
+  <br><br>
+  **Databases:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,neo4j,mongodb" />
+  <br><br>
+  **AI/ML Specific Tools & Platforms:**
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,opencv,huggingface,langchain,openai,midjourney,stable-diffusion,llama,databricks,azure,aws" />
 </p>
-**AI/ML Specific Tools:**
-`Google Gemini API · Vertex AI · Streamlit · Hugging Face · LangChain · OpenCV · TensorFlow · Keras · PyTorch · Scikit-learn · Neo4j`
 
 ---
 
