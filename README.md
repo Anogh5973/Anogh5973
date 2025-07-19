@@ -55,19 +55,27 @@
   **Languages:**
   <br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css" />
-  <br><br>
+</p>
+
+<p align="left">
   **Libraries / Frameworks:**
   <br>
   <img src="https://skillicons.dev/icons?i=streamlit,flask,numpy" />
-  <br><br>
+</p>
+
+<p align="left">
   **Tools / Platforms:**
   <br>
   <img src="https://skillicons.dev/icons?i=git,vscode,gcp" />
-  <br><br>
+</p>
+
+<p align="left">
   **Databases:**
   <br>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,neo4j,mongodb" />
-  <br><br>
+</p>
+
+<p align="left">
   **AI/ML Specific Tools & Platforms:**
   <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,opencv,huggingface,langchain,openai,midjourney,stable-diffusion,llama,databricks,azure,aws" />
@@ -80,8 +88,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunodaybanerjee88&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunodaybanerjee88&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
+  <br> <!-- Added a line break here for clearer visual separation -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunodaybanerjee88&layout=compact&theme=tokyonight" width="48%">
 </p>
 
