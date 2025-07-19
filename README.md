@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
-<h3 align="center">🚀 Tech Explorer | 🌱 AI + Sustainability Enthusiast | 🇮🇳 India</h3>
+<h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainability Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -7,51 +7,53 @@
 
 ---
 
-### 🔭 Currently Working On:
+### 🔭 Currently Working On AI-Powered Solutions:
 
--   🛰️ **Air Quality App:** PM Estimation using satellite data (INSAT-3D/3DR, MERRA-2, CPCB) with ML models.
--   ♻️ **Carbon Footprint Tracker:** Python Flask web app with India-specific emission data.
--   👩‍🚒 **Disaster Response Network:** AI-powered wildfire detection and response system.
--   👨‍🏫 **Project Kisan:** GenAI-powered expert help on demand for farmers.
+-   🛰️ **Air Quality App:** PM Estimation using **INSAT-3D/3DR, MERRA-2, CPCB data with advanced ML models.**
+-   ♻️ **Carbon Footprint Tracker:** Python Flask web app with **Indian emission data and AI-driven insights/tips.**
+-   👩‍🚒 **Disaster Response Network:** Implementing **AI-powered wildfire detection** and rapid response.
+-   👨‍🏫 **Project Kisan:** Developing **GenAI-powered expert assistance** for farmers on demand.
 
 ---
 
-### ✨ Notable Projects:
+### ✨ Notable AI & Software Projects:
 
--   🧠 **AI-Generated Sensory Music:** For deaf individuals.
--   🎮 **Space Shelter Game:** Python game with health, boss levels, SFX, and laser mechanics.
--   ♟️ **Java Chess Game:** Full PvP functionality.
--   📱 **Casio fx-110MS Clone:** Web-based scientific calculator (JavaScript).
+-   🧠 **AI-Generated Sensory Music:** Exploring **Generative AI** for unique auditory experiences for deaf individuals.
+-   🎮 **Space Shelter Game:** A Python game featuring **AI enemy behaviors** and complex mechanics.
+-   ♟️ **Java Chess Game:** Full PvP chess game with robust logic.
+-   📱 **Casio fx-110MS Clone:** Web-based scientific calculator using JavaScript.
 -   🎬 **Astricx Encyclopedia:** TMDB-powered Movie & TV database web app.
 
 ---
 
 ### 💡 Learning & Growing:
 
--   `Prompt Engineering · Flask · AI/ML · Firebase · 5G Architecture · Data Visualization`
+-   `Prompt Engineering · Flask · Advanced AI/ML · Firebase · 5G Architecture · Data Visualization`
 
 ---
 
 ### 👨‍🎓 Education & Goals:
 
 -   B.Tech CSE student at **Chandigarh University** (entering 3rd year).
--   **Career Goals:** Prompt Engineer, focusing on AI for Sustainability, GenAI, and Smart Earth initiatives.
+-   **Career Goals:** Pioneering solutions as a **Prompt Engineer** and contributing to **AI for Sustainability, GenAI, and Smart Earth initiatives.**
 
 ---
 
 ### 🏆 Achievements & Engagements:
 
 -   **Hackathons:** Hack2Skill (Bhartiya Antariksh Hackathon, Antarik Shyatra), Google’s Agentic Day Program, GenAI Exchange Program.
--   **Certifications:** Google Cloud & Arcade Programs, Gen AI Academy Certificate.
+-   **Certifications:** **Google Cloud & Arcade Programs (focusing on AI/ML), Gen AI Academy Certificate.**
 -   **Scouting:** Rajya Puraskar (State Award) in Bharat Scouts & Guides.
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Core Tech Stack & AI Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tailwind,react,pycharm,vscode,git,github,figma,firebase,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,tailwind,react,pycharm,vscode,git,github,figma,firebase,flask,gcp,tensorflow,pytorch,sklearn,keras,opencv,azure,aws" />
 </p>
+**AI/ML Specific Tools:**
+`Google Gemini API · Vertex AI · Streamlit · Hugging Face · LangChain · OpenCV · TensorFlow · Keras · PyTorch · Scikit-learn · Neo4j`
 
 ---
 
