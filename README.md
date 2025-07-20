@@ -1,79 +1,74 @@
-<h1 align="center">Hi 👋, I'm Anogh Banerjee</h1>
-<h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainability & GenAI Enthusiast | 🇮🇳 India</h3>
+# ARUNODAY BANERJEE
+**Software Developer**
+
+**Email:** arunodaybanerjee66@gmail.com | **Phone:** +91 7439478447 | **Location:** 8/15D Prabhuram Sarkar Lane, Kolkata 700015
+**LinkedIn:** [linkedin.com/in/anogh-banerjee-01646223b](https://www.linkedin.com/in/anogh-banerjee-01646223b) | **GitHub:** [github.com/Anogh5973](https://github.com/Anogh5973) | HackerRank
 
 ---
 
-### About Me
+## **INTRODUCTION**
 
-A passionate B.Tech CSE student driven to build impactful software solutions using **Artificial Intelligence**, with a strong focus on **Generative AI** and sustainability. I'm eager to learn, contribute, and excel in dynamic environments.
-
----
-
-### 🔭 Current Focus: AI for Impact
-
--   **Air Quality App:** Developing **ML models** with **satellite and CPCB data** for PM estimation.
--   **Carbon Footprint Tracker:** Python Flask web app providing **AI-driven insights** for sustainable living.
--   **Disaster Response Network:** Implementing **AI-powered wildfire detection** systems.
--   **Project Kisan:** Developing a **GenAI platform** to provide expert guidance to farmers.
+A passionate and results-driven Software Developer specializing in **Artificial Intelligence** and **Generative AI**. Currently in my 3rd year of B.Tech CSE, I build impactful, full-stack solutions with a strong focus on sustainability and cutting-edge technologies. Proactive in learning and excelling in dynamic, collaborative environments.
 
 ---
 
-### ✨ Key Projects
+## **EDUCATION**
 
--   **AI-Generated Sensory Music:** Exploring **Generative AI** for accessible auditory experiences.
--   **Space Shelter Game:** Python game featuring **AI agents** and engaging mechanics.
--   **Java Chess Game:** A fully functional two-player chess application.
--   **Web Calculators:** Including a Casio fx-110MS clone built with JavaScript.
--   **Astricx Encyclopedia:** A web app for exploring movies and TV shows using the TMDB API.
+**Chandigarh University** - Punjab, India
+* Bachelor of Engineering in Computer Science
+* Expected Graduation: 2027
+* GPA: 7.55
 
----
+**Kendriya Vidyalaya** - Salt Lake, Kolkata, West Bengal
+* Higher Secondary Education (Science)
+* 2021-2023 | Percentage: 69%
 
-### 🛠️ Technologies at a Glance
-
-**Languages:** C, C++, Python, Java, HTML, CSS
-**Libraries & Frameworks:** Streamlit, Flask, NumPy
-**Tools & Platforms:** Git, VS Code, Google Cloud Platform (GCP)
-**Databases:** PostgreSQL, MySQL, Neo4j, MongoDB
-**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Hugging Face, LangChain, OpenAI API, Stable Diffusion, Llama
+**Kendriya Vidyalaya** - Salt Lake, Kolkata, West Bengal
+* Secondary Education
+* 2010-2021 | Percentage: 85%
 
 ---
 
-### 📚 Learning & Aspirations
+## **SKILLS**
 
--   **Currently Learning:** Prompt Engineering, Advanced AI/ML, Firebase, 5G Architecture, Data Visualization.
--   **Career Goals:** To innovate as a **Prompt Engineer** and contribute to **AI for Sustainability** and **Generative AI** advancements.
-
----
-
-### 🏆 Achievements & Involvement
-
--   Actively participated in **Hack2Skill, Google’s Agentic Day Program, and GenAI Exchange Program.**
--   Certified in **Google Cloud & Arcade Programs (AI/ML focus)** and **Gen AI Academy.**
--   Awarded **Rajya Puraskar** as a Bharat Scout for leadership and community service.
+* **Programming Languages:** C, C++, Python, Java, HTML, CSS
+* **Libraries/Frameworks:** Streamlit, Flask, NumPy
+* **Tools & Platforms:** Git, VS Code, Google Cloud Platform (GCP), Tableau
+* **Databases:** PostgreSQL, MySQL, Neo4j, MongoDB
+* **AI/Machine Learning:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Hugging Face, LangChain, OpenAI API, Stable Diffusion, Llama
 
 ---
 
-### 📊 My GitHub Stats:
+## **SELECTED PROJECTS**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anogh5973&show_icons=true&theme=tokyonight&hide_rank=true" alt="Anogh5973's GitHub Stats" width="49%" /> 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anogh5973&theme=tokyonight" alt="Anogh5973's GitHub Streak" width="49%" />
-</p>
+**Carbon Footprint Tracker** | [GitHub Link](https://github.com/Anogh5973/carbon-footprint-tracker)
+* Developed a **full-stack web application (Python Flask, HTML/CSS/JS)** for personal carbon footprint tracking, providing intuitive data visualization of emissions.
+* Implemented **secure user authentication (Google OAuth)** and comprehensive profile management, including data visualization and historical trend analysis.
+* Designed and managed a **SQLite database** to store and analyze historical carbon emission trends, enabling personalized insights.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh5973&layout=compact&theme=tokyonight" alt="Anogh5973's Top Languages" width="49%" />
-</p>
-
----
-
-### 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anogh-banerjee-01646223b" target="_blank">LinkedIn</a> | <a href="mailto:arunodaybanerjee88@outlook.com">Email</a> |
-  <a href="https://github.com/Anogh5973">GitHub</a>
-</p>
+**College Event Management System** | [GitHub Link](https://github.com/Anogh5973/college-event-management-system) *(Please verify this GitHub repository link)*
+* Engineered a **web-based platform** for streamlined college event planning, registration, and management.
+* Incorporated **user role-based access (Admin, Student)** and dynamic features for event creation, scheduling, and efficient user registration.
+* Integrated a **real-time notification system**, significantly enhancing overall event organization efficiency and participant engagement.
 
 ---
 
-<p align="center"><i>"Building intelligent solutions for a better future."</i></p>
+## **CERTIFICATIONS**
+
+* [cite_start]Neo4j Certified Professional - Graph Academy [cite: 38]
+* [cite_start]Develop GenAI Apps with Gemini and Streamlit - Google Cloud Skill Boost [cite: 40]
+* [cite_start]Prompt Design in Vertex AI - Google Cloud Skill Boost [cite: 39]
+* [cite_start]Databases and SQL for Data Science with Python - Coursera [cite: 42]
+* [cite_start]Deloitte Australia - Data Analytics Job Simulation - Forage [cite: 41]
+* (Add other relevant Google Cloud Skills Boost, Coursera, LinkedIn Learning Python, IoT certs here if space allows, prioritizing recent and AI-related ones)
+
+---
+
+## **HONORS & AWARDS**
+
+* **Badminton State Champion (West Bengal):** Secured state-level championship, demonstrating exceptional discipline, strategic thinking, and a drive for excellence.
+* [cite_start]**Achieved Rajya Puraskar (State Award) as a Bharat Scout**, demonstrating advanced skills in first aid, survival, and leadership through extensive community service and state-level engagements. [cite: 44]
+* [cite_start]**Successfully completed multiple Google Cloud Arcade Programs**, gaining extensive hands-on experience in diverse GCP services essential for cloud-native development and deployment. [cite: 45]
+* Certified in **Google Cloud & Arcade Programs (AI/ML focus)** and **Gen AI Academy Certificate** (You already have a similar point, could combine for conciseness if needed).
+
+---
