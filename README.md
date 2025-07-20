@@ -9,43 +9,49 @@
 
 ---
 
-### 🔭 Currently Working On AI-Powered Solutions:
+### 🌟 About Me
 
--   🛰️ **Air Quality App:** PM Estimation using **INSAT-3D/3DR, MERRA-2, CPCB data with advanced ML models.**
--   ♻️ **Carbon Footprint Tracker:** Python Flask web app with **Indian emission data and AI-driven insights/tips.**
--   👩‍🚒 **Disaster Response Network:** Implementing **AI-powered wildfire detection** and rapid response.
--   👨‍🏫 **Project Kisan:** Developing **GenAI-powered expert assistance** for farmers on demand.
+I'm a passionate B.Tech CSE student dedicated to building innovative software solutions with a strong focus on Artificial Intelligence and sustainability. I thrive in challenging environments like hackathons and am constantly expanding my expertise in cutting-edge technologies.
 
 ---
 
-### ✨ Notable AI & Software Projects:
+### 🔭 Currently Building: AI for Real-World Impact
 
--   🧠 **AI-Generated Sensory Music:** Exploring **Generative AI** for unique auditory experiences for deaf individuals.
--   🎮 **Space Shelter Game:** A Python game featuring **AI enemy behaviors** and complex mechanics.
--   ♟️ **Java Chess Game:** Full PvP chess game with robust logic.
--   📱 **Casio fx-110MS Clone:** Web-based scientific calculator using JavaScript.
--   🎬 **Astricx Encyclopedia:** TMDB-powered Movie & TV database web app.
-
----
-
-### 💡 Learning & Growing:
-
--   `Prompt Engineering · Flask · Advanced AI/ML · Firebase · 5G Architecture · Data Visualization`
+-   🛰️ **Air Quality App:** Developing a system for PM estimation using **satellite data (INSAT-3D/3DR, MERRA-2, CPCB) and advanced ML models.**
+-   ♻️ **Carbon Footprint Tracker:** A Python Flask web application integrating **Indian emission data and AI-driven insights/tips** for personal sustainability.
+-   👩‍🚒 **Disaster Response Network:** Implementing **AI-powered wildfire detection** and a rapid response system.
+-   👨‍🏫 **Project Kisan:** Crafting a **GenAI-powered platform** to provide on-demand expert assistance to farmers.
 
 ---
 
-### 👨‍🎓 Education & Goals:
+### ✨ Key Projects & Creations:
+
+-   🧠 **AI-Generated Sensory Music:** Explored **Generative AI** to create unique auditory experiences for deaf individuals.
+-   🎮 **Space Shelter Game:** Developed a Python game featuring **AI enemy behaviors**, health bars, boss levels, SFX, and laser mechanics.
+-   ♟️ **Java Chess Game:** Built a full two-player chess game with complete piece logic.
+-   📱 **Casio fx-110MS Clone:** Created a web-based scientific calculator with a game-like UI using JavaScript.
+-   🎬 **Astricx Encyclopedia:** Designed a TMDB-powered Movie & TV database web application.
+
+---
+
+### 📚 Learning & Growth:
+
+-   `Prompt Engineering · Advanced AI/ML Concepts · Firebase · 5G Architecture · Data Visualization`
+
+---
+
+### 🎓 Education & Aspirations:
 
 -   B.Tech CSE student at **Chandigarh University** (entering 3rd year).
--   **Career Goals:** Pioneering solutions as a **Prompt Engineer** and contributing to **AI for Sustainability, GenAI, and Smart Earth initiatives.**
+-   **Career Goal:** To become a **Prompt Engineer** and drive innovation in **AI for Sustainability, Generative AI, and Smart Earth initiatives.**
 
 ---
 
 ### 🏆 Achievements & Engagements:
 
--   **Hackathons:** Hack2Skill (Bhartiya Antariksh Hackathon, Antarik Shyatra), Google’s Agentic Day Program, GenAI Exchange Program.
--   **Certifications:** **Google Cloud & Arcade Programs (focusing on AI/ML), Gen AI Academy Certificate.**
--   **Scouting:** Rajya Puraskar (State Award) in Bharat Scouts & Guides.
+-   **Hackathons:** Actively participated in Hack2Skill (Bhartiya Antariksh Hackathon, Antarik Shyatra), Google’s Agentic Day Program, and GenAI Exchange Program.
+-   **Certifications:** Hold multiple **Google Cloud & Arcade Program** certificates (with a strong AI/ML focus), and a **Gen AI Academy Certificate.**
+-   **Leadership & Service:** Achieved **Rajya Puraskar (State Award)** as a Bharat Scout, demonstrating advanced skills in first aid, survival, and leadership through extensive community service.
 
 ---
 
@@ -88,7 +94,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunodaybanerjee88&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunodaybanerjee88&theme=tokyonight" width="48%" />
-  <br> <!-- Added a line break here for clearer visual separation -->
+  <br> <!-- Ensures the top languages chart starts on a new line -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunodaybanerjee88&layout=compact&theme=tokyonight" width="48%">
 </p>
 
