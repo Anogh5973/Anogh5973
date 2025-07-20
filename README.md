@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
+<h1 align="center">Hi 👋, I'm Anogh Banerjee</h1>
 <h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainability & GenAI Enthusiast | 🇮🇳 India</h3>
 
 ---
@@ -53,12 +53,16 @@ A passionate B.Tech CSE student driven to build impactful software solutions usi
 
 ---
 
-### 📊 My GitHub Activity:
+### 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunodaybanerjee88&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunodaybanerjee88&theme=tokyonight" width="48%" />
-  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunodaybanerjee88&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anogh5973&show_icons=true&theme=tokyonight&hide_rank=true" alt="Anogh5973's GitHub Stats" width="49%" /> 
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anogh5973&theme=tokyonight" alt="Anogh5973's GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh5973&layout=compact&theme=tokyonight" alt="Anogh5973's Top Languages" width="49%" />
 </p>
 
 ---
@@ -66,9 +70,8 @@ A passionate B.Tech CSE student driven to build impactful software solutions usi
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arunodaybanerjee88" target="_blank">LinkedIn</a> |
-  <a href="mailto:arunodaybanerjee88@outlook.com">Email</a> |
-  <a href="https://github.com/arunodaybanerjee88">GitHub</a>
+  <a href="https://www.linkedin.com/in/anogh-banerjee-01646223b" target="_blank">LinkedIn</a> | <a href="mailto:arunodaybanerjee88@outlook.com">Email</a> |
+  <a href="https://github.com/Anogh5973">GitHub</a>
 </p>
 
 ---
