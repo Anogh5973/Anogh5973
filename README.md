@@ -57,7 +57,8 @@ A passionate B.Tech CSE student driven to build impactful software solutions usi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anogh5973&show_icons=true&theme=tokyonight&hide_rank=true" alt="Anogh5973's GitHub Stats" width="49%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anogh5973&theme=tokyonight&cache_bust=1721568000" alt="Anogh5973's GitHub Streak" width="49%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anogh5973&theme=tokyonight" alt="Anogh5973's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
