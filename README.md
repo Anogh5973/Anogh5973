@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arinoday+Banerjee ;AI+%26+Sustainability+Innovator;Building+the+Future%2C+Today." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arunoday+Banerjee;AI+%26+Sustainability+Innovator;Building+the+Future%2C+Today." alt="Typing SVG" /></a>
 
 🚀 AI Solutions Developer | 🌱 Sustainability & GenAI Enthusiast | 🇮🇳 India
 </div>
@@ -20,8 +20,6 @@ I am a passionate B.Tech CSE student driven to build impactful software solution
 🛠️ My Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript" />
-<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,opencv,huggingface" />
 <br>
 <img src="https://skillicons.dev/icons?i=flask,streamlit,gcp,git,vscode,mongodb,mysql,postgres,neo4j" />
@@ -61,11 +59,11 @@ JavaScript, HTML/CSS, TMDB API
 
 📊 My GitHub Activity
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anogh5973&show_icons=true&theme=catppuccin_latte&hide_rank=true&cache_seconds=1800" alt="Anogh's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh5973&layout=compact&theme=catppuccin_latte&cache_seconds=1800" alt="Anogh's Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anogh5973&show_icons=true&theme=catppuccin_latte&hide_rank=true&cache_seconds=1800" alt="Arunoday's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anogh5973&layout=compact&theme=catppuccin_latte&cache_seconds=1800" alt="Arunoday's Top Languages" width="48%" />
 </p>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anogh5973&theme=react-dark&hide_border=true&area=true" alt="Anogh's Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anogh5973&theme=react-dark&hide_border=true&area=true" alt="Arunoday's Contribution Graph" width="98%"/>
 </p>
 
 🏆 Achievements & Certifications
