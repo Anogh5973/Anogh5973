@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anogh+Banerjee;AI+%26+Sustainability+Innovator;Building+the+Future%2C+Today." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arinoday+Banerjee ;AI+%26+Sustainability+Innovator;Building+the+Future%2C+Today." alt="Typing SVG" /></a>
 
 🚀 AI Solutions Developer | 🌱 Sustainability & GenAI Enthusiast | 🇮🇳 India
 </div>
