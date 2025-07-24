@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
-<h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainability & GenAI Enthusiast | 🇮🇳 India</h3>
+<h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainabilty & GenAI Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
