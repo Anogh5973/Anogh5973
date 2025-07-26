@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1>
+<h1 align="center">Hi 👋, I'm Arunoday Banerjee</h1
 <h3 align="center">🚀 AI Solutions Developer | 🌱 Sustainabilty & GenAI Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
