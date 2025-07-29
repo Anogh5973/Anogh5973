@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-A passionate B.Tech CSE student driven to build impactful software solutions using **Artificial Intelligence**, with a strong focus on **Generative AI** and sustainability. I'm eager to learn, contribute, and excel in dynamic environments, bridging the gap between cutting-edge technology and real-world problems. My toolkit includes **Python, Java, C++, web technologies, and a diverse range of cloud and database systems**
+A passionate BTech CSE student driven to build impactful software solutions using **Artificial Intelligence**, with a strong focus on **Generative AI** and sustainability. I'm eager to learn, contribute, and excel in dynamic environments, bridging the gap between cutting-edge technology and real-world problems. My toolkit includes **Python, Java, C++, web technologies, and a diverse range of cloud and database systems**
 
 ---
 
